@@ -1,0 +1,12 @@
+@import "~font-awesome/css/font-awesome.css";
+@import '~@blueprintjs/core/dist/blueprint.css';
+
+body {
+  position: relative;
+  color: white;
+  height: 100vh;
+  font-family: Arial, Helvetica, Helvetica Neue, serif;
+  overflow-y: hidden;
+}
+
+button:focus {outline:0;}
